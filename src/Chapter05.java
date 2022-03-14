@@ -2,8 +2,8 @@
 public class Chapter05 {
 	public static void main(String[] args) {
 
-	long long1 =  9223372036854775806L;
-	System.out.println(long1);
+	long long2 =  9223372036854775806L;
+	System.out.println(long2);
 	double double1 = 4.5;
 	System.out.println(double1);
 	boolean bool1 = true;
