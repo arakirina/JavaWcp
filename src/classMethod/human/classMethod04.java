@@ -1,6 +1,6 @@
 package classMethod.human;
 
-public class classMethod04 {
+public class ClassMethod04 {
 	public static void main(String[] args) {
 //		Human04インスタンスを生成することでコンストラクタ内の処理が実行される。
 		Human04 yamada = new Human04("山田");

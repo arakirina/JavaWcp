@@ -1,0 +1,12 @@
+package java課題;
+
+public class Java01 {
+	public static void main(String[] args) {
+		int sum = 0;
+		for(int i= 1; i<= 100; i++) {
+			System.out.println(sum+=i);
+		}
+	}
+}
+
+
